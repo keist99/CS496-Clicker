@@ -14,7 +14,15 @@
 
 ### 스크린샷
 
-(준비 중)
+<img src="documents/screenshot_clicker.png" height="400px">
+
+<img src="documents/screenshot_purchase.png" height="400px">
+
+<img src="documents/screenshot_galaga.png" height="400px">
+
+### 개발 기간
+
+2019년 7월 9일 - 7월 16일 (7일간)
 
 ### 라이선스 및 공동체 수정
 
