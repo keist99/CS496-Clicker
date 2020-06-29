@@ -16,7 +16,7 @@
 
 <img src="documents/screenshot_clicker.png" height="400px">
 
-<img src="documents/screenshot_purchase.png" height="400px">
+<img src="documents/screenshot_stat_purchase.png" height="400px">
 
 <img src="documents/screenshot_galaga.png" height="400px">
 
