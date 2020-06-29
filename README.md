@@ -1,22 +1,22 @@
 # 유니티 클리커 및 우주 전쟁 게임
 
-![Language][language-csharp]
-![Library][library-unity]
-![Platform][platform-android]
+![language-c#][language-c#]
+![library-unity][library-unity]
+![platform-android][platform-android]
 <br>
-![Participants][participants-duo]
+![participants-duo][participants-duo]
 <br>
-[![School Project][kaist-image]][kaist-cs-url]
-![Course][course-cs496]
-![Grade][grade-p]
+[![institution-kaist][kaist-image]][kaist-cs-url]
+[![course-immersion-camp][course-cs496]][course-cs496-url]
+![grade-p][grade-p]
 
 > 클리커 게임을 마치면 그 점수로 구입한 아이템으로 우주 전쟁 게임을 할 수 있는 안드로이드 연속 게임입니다.
 
-## 스크린샷
+### 스크린샷
 
 (준비 중)
 
-## 라이선스 및 공동체 수정
+### 라이선스 및 공동체 수정
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
@@ -27,8 +27,9 @@
 <!-- Image definitions -->
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
-[course-cs496]: https://img.shields.io/badge/Course-Immersion%20Camp%3A%20Intensive%20Programming%20and%20Startup-brightgreen
-[language-csharp]: https://img.shields.io/badge/Language-C%23-orange
+[course-cs496]: https://img.shields.io/badge/Course-Immersion%20Camp-brightgreen
+[course-cs496-url]: https://madcamp.io
+[language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-android]: https://img.shields.io/badge/Platform-Android-yellowgreen
 [grade-p]: https://img.shields.io/badge/Grade-P-yellow
