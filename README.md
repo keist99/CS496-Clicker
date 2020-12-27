@@ -8,21 +8,25 @@
 <br>
 [![institution-kaist][kaist-image]][kaist-cs-url]
 [![course-immersion-camp][course-cs496]][course-cs496-url]
-![grade-p][grade-p]
+![grade-s][grade-s]
 
-> 클리커 게임을 마치면 그 점수로 구입한 아이템으로 우주 전쟁 게임을 할 수 있는 안드로이드 연속 게임입니다.
+> 클리커 게임의 점수로 아이템을 구입하여 우주 전쟁 게임을 할 수 있는 안드로이드 연속 게임입니다.
 
 ### 스크린샷
 
-<img src="documents/screenshot_clicker.png" height="400px">
+<img src="static/screenshot_clicker.png" height="400px">
 
-<img src="documents/screenshot_stat_purchase.png" height="200px">
+<img src="static/screenshot_stat_purchase.png" height="200px">
 
-<img src="documents/screenshot_galaga.png" height="200px">
+<img src="static/screenshot_galaga.png" height="200px">
 
 ### 개발 기간
 
 2019년 7월 9일 - 7월 16일 (7일간)
+
+### 기획서
+
+[클리커 게임 기획서](static/document.pdf)
 
 ### 라이선스 및 공동체 수정
 
@@ -40,5 +44,5 @@
 [language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-android]: https://img.shields.io/badge/Platform-Android-yellowgreen
-[grade-p]: https://img.shields.io/badge/Grade-P-yellow
+[grade-s]: https://img.shields.io/badge/Grade-S-yellow
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
