@@ -14,11 +14,11 @@
 
 ### 스크린샷
 
-<img src="static/screenshot_clicker.png" height="400px">
+<img src="/static/screenshot_clicker.png" height="400px">
 
-<img src="static/screenshot_stat_purchase.png" height="200px">
+<img src="/static/screenshot_stat_purchase.png" height="200px">
 
-<img src="static/screenshot_galaga.png" height="200px">
+<img src="/static/screenshot_galaga.png" height="200px">
 
 ### 개발 기간
 
